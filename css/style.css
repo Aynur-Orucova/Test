@@ -3,13 +3,12 @@
 	min-height: 600px;
 /*	background: red;*/
 	float: left;
-	
 }
 
 .header{
 	width: 1000px;
 	min-height: 100px;
-	background: pink;
+	background: yellow;
 	float: left;
 }
 
@@ -24,14 +23,14 @@
 .nav{
 	width: 255px;
 	min-height: inherit;
-	background: blue;
+	background: yellow;
 	float: left;
 }
 
 .article{
 	width: 500px;
 	min-height: inherit;
-	background: purple;
+	background: yellow;
 	float: left;
 	margin: 0px 15px;
 }
@@ -46,6 +45,6 @@
 .footer{
 	width: 1000px;
 	min-height: 100px;
-	background: green;
+	background: yellow;
 	float: left;
 }
